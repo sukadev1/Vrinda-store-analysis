@@ -44,5 +44,6 @@ To analyze and derive meaningful insights from Vrinda Store's sales data to unde
   - LinkedIn:www.linkedin.com/in/sukadev-patra-722b14227
   - Email: ********@gmail.com
 
+![Sales Dashboard](https://github.com/sukadev1/Vrinda-store-analysis/blob/main/Screenshot%20(1).png)
 
   
