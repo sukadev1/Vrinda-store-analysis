@@ -41,7 +41,7 @@ To analyze and derive meaningful insights from Vrinda Store's sales data to unde
 - Integrate real-time sales data for dynamic reporting.
 # 🛠️ Author
 - **Sukadev Patra**
-  - LinkedIn:www.linkedin.com/in/sukadev-patra
+  - LinkedIn:www.linkedin.com/in/sukadevpatra
   - Email: ********@gmail.com
 
 ![Sales Dashboard](https://github.com/sukadev1/Vrinda-store-analysis/blob/main/Screenshot%20(1).png)
